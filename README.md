@@ -10,7 +10,7 @@
 # Step 3
 ![Screenshot (128)](https://github.com/Fitbhairav/Razorpay-Payment-Integration-using-Django/assets/114358084/96c60fe6-26e9-4405-8725-94c81d4e1897)
 
-# Step 4 
+# Step 4 Use UPI-ID = success@razorpay for testing purpose
 ![Screenshot (129)](https://github.com/Fitbhairav/Razorpay-Payment-Integration-using-Django/assets/114358084/8b835c67-7181-460e-9b73-0711bc7e63e7)
 
 # Step 5
